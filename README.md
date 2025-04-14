@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gsowndarya
+- 👋 Hi, I’m sowndarya-gopal
 - 👀 I’m interested in learning new technologies and enhancing skills in the data field
 - 🌱 I’m currently learning **Data Science**
 - 💞️ I’m looking to collaborate on **Data analysis and visualization projects using Python**
